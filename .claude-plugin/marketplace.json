@@ -7,7 +7,7 @@
   "description": "WPF projelerini Uno Platform'a dönüştürme rehberi ve referansları",
   "plugins": [
     {
-      "name": "wpf-to-uno",
+      "name": "wpf-to-uno-denemee",
       "source": "./plugins/wpf-to-uno",
       "description": "WPF -> Uno Platform dönüşüm skill'i ve referans dökümanları"
     }
