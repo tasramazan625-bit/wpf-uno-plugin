@@ -1,0 +1,15 @@
+{
+  "name": "wpf-uno-tools",
+  "owner": {
+    "name": "EKIP_ADIN",
+    "email": "ekip@sirketin.com"
+  },
+  "description": "WPF projelerini Uno Platform'a dönüştürme rehberi ve referansları",
+  "plugins": [
+    {
+      "name": "wpf-to-uno",
+      "source": "./plugins/wpf-to-uno",
+      "description": "WPF -> Uno Platform dönüşüm skill'i ve referans dökümanları"
+    }
+  ]
+}
