@@ -1,5 +1,5 @@
 ---
-name: wpf-to-uno-migration
+name: wpf-to-uno-denemeeee
 description: >
   Expert guide for migrating Windows Presentation Foundation (WPF) applications to Uno Platform
   for cross-platform deployment (Windows, macOS, Linux, iOS, Android, WebAssembly).
